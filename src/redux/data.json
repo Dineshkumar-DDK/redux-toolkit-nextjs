@@ -1,0 +1,22 @@
+[
+  { "Name": "Arjun Kumar", "Age": 25, "City": "Chennai" },
+  { "Name": "Priya Sharma", "Age": 28, "City": "Bengaluru" },
+  { "Name": "Rahul Verma", "Age": 32, "City": "Delhi" },
+  { "Name": "Meena Iyer", "Age": 24, "City": "Mumbai" },
+  { "Name": "Sanjay Gupta", "Age": 30, "City": "Hyderabad" },
+  { "Name": "Ananya Reddy", "Age": 27, "City": "Pune" },
+  { "Name": "Karthik Nair", "Age": 35, "City": "Kochi" },
+  { "Name": "Neha Patil", "Age": 26, "City": "Nagpur" },
+  { "Name": "Vikram Singh", "Age": 40, "City": "Jaipur" },
+  { "Name": "Divya Menon", "Age": 23, "City": "Trivandrum" },
+  { "Name": "Ravi Shankar", "Age": 31, "City": "Lucknow" },
+  { "Name": "Sneha Kapoor", "Age": 29, "City": "Indore" },
+  { "Name": "Aditya Joshi", "Age": 34, "City": "Ahmedabad" },
+  { "Name": "Lakshmi Prasad", "Age": 22, "City": "Coimbatore" },
+  { "Name": "Suresh Das", "Age": 37, "City": "Bhubaneswar" },
+  { "Name": "Isha Agarwal", "Age": 28, "City": "Kolkata" },
+  { "Name": "Manoj Bhat", "Age": 33, "City": "Surat" },
+  { "Name": "Pooja Desai", "Age": 26, "City": "Vadodara" },
+  { "Name": "Deepak Yadav", "Age": 39, "City": "Patna" },
+  { "Name": "Ritika Sen", "Age": 21, "City": "Mysuru" }
+]
